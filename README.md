@@ -8,8 +8,7 @@ This project supports **UN Sustainable Development Goal 4**: Ensure inclusive an
 ## ⚙️ Tech Stack
 - Python, Streamlit
 - scikit-learn, pandas
-- IBM Cloud Code Engine (for deployment)
-- Docker
+- streamlit(for deployment)
 
 ## 🚀 How to Run (Locally)
 
