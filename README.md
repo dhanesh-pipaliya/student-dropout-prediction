@@ -8,7 +8,7 @@ This project supports **UN Sustainable Development Goal 4**: Ensure inclusive an
 ## ⚙️ Tech Stack
 - Python, Streamlit
 - scikit-learn, pandas
-- streamlit(for deployment)
+- streamlit (for deployment)
 
 ## 🚀 How to Run (Locally)
 
